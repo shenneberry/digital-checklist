@@ -1,5 +1,3 @@
-
-
 import React from 'react' 
 import ChecklistItem from '../Components/Atoms/ChecklistItem'
 import GeneralChecklist from '../Components/Molecules/GeneralChecklist'
