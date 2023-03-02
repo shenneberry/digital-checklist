@@ -11,12 +11,10 @@ function Navbar() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar variant="dense">
-          <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
-            <MenuIcon />
+          <IconButton edge="start" color="inherit" aria-label="menu" variant="h6" sx={{ mr: 2 }}>
+            Checklist 
           </IconButton>
-          <Typography variant="h6" color="inherit" component="div">
-            Photos
-          </Typography>
+          
         </Toolbar>
       </AppBar>
     </Box>
